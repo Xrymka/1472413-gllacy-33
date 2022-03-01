@@ -1088,6 +1088,7 @@ img {
 .contacts__inner {
   max-width: 343px;
   padding: 40px;
+  padding-right: 26px;
 
   background: #FCFCFC;
   box-shadow: 0 8px 16px rgba(45, 52, 64, 0.12);
